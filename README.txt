@@ -1,4 +1,4 @@
-NEON MAZE RUNNER - UNITY PROJECT
+NEON BLADE RUNNER - UNITY PROJECT
 
 Unity version: Unity 6 (6000.x recommended)
 
